@@ -21,6 +21,10 @@ import java.util.List;
              return s1.getSName().compareTo(s2.getSName());
          return ( s1.compareTo(s2));
      }
+
+
+
+
      public static void main(String args[]){
          List<Student> sList = new ArrayList<>();
 
